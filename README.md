@@ -17,3 +17,4 @@ This is some more text
 ```bash
 echo "Hello world"
 ```
+Petko Ivanov
