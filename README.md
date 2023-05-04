@@ -6,4 +6,14 @@ this is some text
 
 ### This is a sub-subheading
 
-spi mi se
+This is some more text
+
+```python
+print("Hello world")
+```
+
+This is some more text
+
+```bash
+echo "Hello world"
+```
